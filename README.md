@@ -12,3 +12,6 @@ https://tfconsult.com/froscon-2024/
 
 ## 2018 - FrOSCon
 https://tfconsult.com/froscon-2018/
+
+## 2016 - FrOSCon
+https://tfconsult.com/free-and-open-source-conference/
