@@ -6,3 +6,7 @@ https://tfconsult.com/froscon-2026/
 
 ## 2025 - FrOSCon 20
 https://tfconsult.com/20-years-froscon/
+
+## 2024 - FrOSCon 19
+https://tfconsult.com/froscon-2024/
+
